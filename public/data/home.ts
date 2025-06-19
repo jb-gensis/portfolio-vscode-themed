@@ -19,7 +19,7 @@ export const homeData = {
     },
     {
       Icon: FaLocationDot,
-      Label: "Tabunoc, Talisay City, Cebu",
+      Label: "Cebu City, Philippines",
       Link: "https://www.google.com/maps/@10.2617,123.8359381,67m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3Dhttps://www.google.com/maps/@10.2633039,123.8392701,160m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D", // This is just a simple location of my city
     },
     {
