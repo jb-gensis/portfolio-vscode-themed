@@ -1,7 +1,7 @@
 import { HStack, useColorModeValue } from "@chakra-ui/react";
 import JSImage from "/assets/javascript.webp";
 import HTMLImage from "/assets/html.webp";
-import JSONImage from "/assets/json.webp";
+// import JSONImage from "/assets/json.webp";
 import CSSImage from "/assets/css.webp";
 import TSImage from "/assets/typescript.webp";
 import TabsBarItem from "./TabsBarItem";

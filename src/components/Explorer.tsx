@@ -4,7 +4,7 @@ import { IoIosArrowForward, IoIosArrowDown } from "react-icons/io";
 import ExplorerItem from "./ExplorerItem";
 import JSImage from "/assets/javascript.webp";
 import HTMLImage from "/assets/html.webp";
-import JSONImage from "/assets/json.webp";
+// import JSONImage from "/assets/json.webp";
 import CSSImage from "/assets/css.webp";
 import TSImage from "/assets/typescript.webp";
 

@@ -1,7 +1,7 @@
 import { Box, VStack } from "@chakra-ui/react";
 import {
   VscFiles,
-  VscDebugAlt,
+  // VscDebugAlt,
   //VscGithub,
   VscAccount,
   VscSettingsGear,
