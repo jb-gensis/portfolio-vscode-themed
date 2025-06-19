@@ -23,7 +23,7 @@
 
 ### Links
 
-- **Live Demo**: [https://vs-code-themed-portfolio-theta.vercel.app/](https://vs-code-themed-portfolio-theta.vercel.app/)
+- **Live Demo**: [https://portfolio-vscode-themed.vercel.app/](https://portfolio-vscode-themed.vercel.app/)
 
 ---
 
@@ -80,50 +80,6 @@ This project was designed to be **developer-friendly and customizable**.
   ```
 
 No complicated setup or backend configuration required!
-
----
-
-## Deploy on Vercel
-
-You can **deploy this portfolio in minutes** using [Vercel](https://vercel.com/):
-
-1. **Fork** the repo.
-2. Head over to [https://vercel.com/new](https://vercel.com/new).
-3. Connect your GitHub account and import your forked repo.
-4. Vercel will auto-detect the project settings (no manual config needed).
-5. Click **Deploy**, and your portfolio will be live almost instantly!
-
-> 💡 All necessary Vercel settings are already in place in the project structure.
-
----
-
-## Use Your Own Email API
-
-This project uses a **custom-built backend** deployed on [Vercel](https://vercel.com/), which utilizes **Nodemailer** for email functionality.
-
-If you'd like to use your own API instance:
-
-1. Visit the backend repo: [https://github.com/KareemEhab/email-sender](https://github.com/KareemEhab/email-sender)
-2. Follow the instructions in its `README.md` to:
-   - Set up the email server
-   - Configure a Gmail to be used to send emails
-   - Deploy the API on Vercel or your preferred platform
-3. Once deployed, update the frontend file:
-   - Open `/src/utils/sendEmail.ts`
-   - Replace the fetch URL with your deployed API endpoint:
-     ```ts
-     return await fetch("https://your-vercel-deployment.vercel.app/send", {
-       method: "POST",
-       headers: { "Content-Type": "application/json" },
-       body: JSON.stringify({
-         name,
-         email,
-         subject,
-         message,
-         receiver_email,
-       }),
-     });
-     ```
 
 ---
 
