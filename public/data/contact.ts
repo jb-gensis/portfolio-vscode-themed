@@ -4,7 +4,7 @@ import {
   FaLinkedin,
   FaFacebook,
   FaInstagram,
-  FaWhatsapp,
+  // FaWhatsapp,
 } from "react-icons/fa";
 
 export const receiver_email = "margensis14@gmail.com"; // Your email for recieving emails using the email service.
