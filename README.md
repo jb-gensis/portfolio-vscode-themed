@@ -1,4 +1,4 @@
-# John Bhremar Gensis's Portfolio with the VS Code Theme
+# JB Gensis's Portfolio with the VS Code Theme
 
 ## Table of Contents
 
