@@ -1,6 +1,6 @@
 export const aboutMe = {
   description: [
-    "A Self-Taught Developer (LaraVue) with a degree in Information Technology from Salazar Colleges of Science and Institute of Technology",
+    "A Software Developer (LaraVue) with a degree in Information Technology from Salazar Colleges of Science and Institute of Technology",
     "Skilled in front-end and back-end development, as well as UI/UX design, but more comportable on the back-end side. Passionate about building scalable web applications and a team player.",
   ],
   // Simply upload your CV to your Google Drive, then just copy the link to the uploaded file and paste it here.

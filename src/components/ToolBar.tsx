@@ -13,7 +13,7 @@ const ToolBar = () => {
         left="50%"
         textAlign={"center"}
       >
-        John Bhremar Gensis - Self-Taught Developer
+        John Bhremar Gensis - Building One Line at a Time.
       </Text>
       <ToolBarRight />
     </HStack>

@@ -89,7 +89,7 @@ const Home = ({ setPage }: Props) => {
             color={accentColor}
             mb={{ base: 6, md: 10 }}
           >
-            Self-Taught Developer | Learning by doing
+            Learning to Code Like I Taught Myself to Ride a Bike — With Curiosity and a Lot of Crashes.
           </Text>
         </Box>
 
