@@ -17,9 +17,7 @@ const ContactDetails = () => {
           </Text>
         </HStack>
       ))}
-      <Text pl={2} mt={2}>
-        This contact form is under maintenance...
-      </Text>
+
       <Text>*/</Text>
     </VStack>
   );

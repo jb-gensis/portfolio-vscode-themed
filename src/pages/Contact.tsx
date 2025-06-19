@@ -135,7 +135,6 @@ const Contact = ({ setPage }: Props) => {
                     ml={4}
                     isLoading={loading}
                     loadingText="Sending..."
-                    isDisabled={true}
                   >
                     Send Message
                   </Button>
