@@ -1,4 +1,4 @@
-# John Bhremar Gensis's Portfolio with the Visual Studio Code Theme
+# JB Gensis's Portfolio with the VS Code Theme
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@
 - [How to Use](#how-to-use)
 - [Make It Your Own](#make-it-your-own)
 - [Deploy on Vercel](#deploy-on-vercel)
-- [Use Your Own Email API](#use-your-own-email-api)
 - [Author](#author)
 
 ---
