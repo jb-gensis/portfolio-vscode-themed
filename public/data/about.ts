@@ -1,7 +1,7 @@
 export const aboutMe = {
   description: [
-    "A Software Developer (LaraVue) with a degree in Information Technology from Salazar Colleges of Science and Institute of Technology",
-    "Skilled in front-end and back-end development, as well as UI/UX design, but more comportable on the back-end side. Passionate about building scalable web applications and a team player.",
+    "I'm a passionate Software Developer with a degree in Information Technology and a strong focus on back-end development. I specialize in the Laravel–Vue stack, building robust, scalable web applications that balance performance with user experience.",
+    "With a solid foundation in server-side logic and database architecture, I excel at solving complex problems and writing clean, maintainable code. I also bring front-end development experience and an eye for UI/UX design, allowing me to contribute effectively across the full development lifecycle. In addition to building new applications, I have hands-on experience in maintaining and modernizing legacy codebases, ensuring long-term stability while implementing improvements and best practices. I'm a team player who values collaboration, clear communication, and continuous growth. Coachable and adaptable, I’m always eager to learn, refine my skills, and stay current with evolving technologies."
   ],
   // Simply upload your CV to your Google Drive, then just copy the link to the uploaded file and paste it here.
   cvDriveLink:
