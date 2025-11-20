@@ -20,7 +20,7 @@
 
 ### Links
 
-- **Live Demo**: [https://portfolio-vscode-themed.vercel.app/](https://jb-gensis.vercel.app/)
+- **Live Demo**: [https://jb-gensis.vercel.app/](https://jb-gensis.vercel.app/)
 
 ---
 
