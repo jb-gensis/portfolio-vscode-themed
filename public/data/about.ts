@@ -18,6 +18,7 @@ export const technicalSkills: Record<string, string[]> = {
     "Bootstrap",
     "Tailwind",
     "JQuery",
+    "Basic TypeScript"
   ],
   "Backend Development": [
     "Laravel",
