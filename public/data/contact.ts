@@ -32,9 +32,9 @@ export const contactInfo = [
     label: "Facebook",
     value: "facebook.com/jb-gensis",
   },
-  {
-    icon: FaInstagram,
-    label: "Instagram",
-    value: "instagram.com/_jhn.gnss",
-  },
+  // {
+  //   icon: FaInstagram,
+  //   label: "Instagram",
+  //   value: "instagram.com/_jhn.gnss",
+  // },
 ];
