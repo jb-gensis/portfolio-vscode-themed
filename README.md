@@ -9,8 +9,6 @@
   - [Built With](#built-with)
 - [How to Use](#how-to-use)
 - [Make It Your Own](#make-it-your-own)
-- [Deploy on Vercel](#deploy-on-vercel)
-- [Author](#author)
 
 ---
 
