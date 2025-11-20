@@ -3,7 +3,6 @@ import {
   FaGithub,
   FaLinkedin,
   FaFacebook,
-  // FaInstagram,
 } from "react-icons/fa";
 
 export const receiver_email = "margensis14@gmail.com"; // Your email for recieving emails using the email service.
@@ -31,10 +30,5 @@ export const contactInfo = [
     icon: FaFacebook,
     label: "Facebook",
     value: "facebook.com/jb-gensis",
-  },
-  // {
-  //   icon: FaInstagram,
-  //   label: "Instagram",
-  //   value: "instagram.com/_jhn.gnss",
-  // },
+  },  
 ];
