@@ -56,10 +56,10 @@ export const homeData = {
       Label: "Facebook",
       Link: "https://www.facebook.com/jb-gensis",
     },
-    {
-      Icon: FaInstagram,
-      Label: "Instagram",
-      Link: "https://www.instagram.com/_jhn.gnss/",
-    },
+    // {
+    //   Icon: FaInstagram,
+    //   Label: "Instagram",
+    //   Link: "https://www.instagram.com/_jhn.gnss/",
+    // },
   ],
 };
