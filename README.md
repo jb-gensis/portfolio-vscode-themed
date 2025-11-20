@@ -1,4 +1,4 @@
-# JB Gensis's Portfolio with the VS Code Theme
+## Portfolio with the VS Code Theme
 
 ## Table of Contents
 
