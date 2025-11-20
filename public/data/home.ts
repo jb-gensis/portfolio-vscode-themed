@@ -4,7 +4,6 @@ import { FaPhoneAlt, FaGithub, FaLinkedin } from "react-icons/fa";
 import { FaUniversity } from "react-icons/fa";
 import { FaGraduationCap } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
-// import { FaInstagram } from "react-icons/fa";
 
 export const homeData = {
   // To use your own photo, just place it in /public/assets and write the link as I did: eg: /assets/my_image.jpg
@@ -55,11 +54,6 @@ export const homeData = {
       Icon: FaFacebook,
       Label: "Facebook",
       Link: "https://www.facebook.com/jb-gensis",
-    },
-    // {
-    //   Icon: FaInstagram,
-    //   Label: "Instagram",
-    //   Link: "https://www.instagram.com/_jhn.gnss/",
-    // },
+    }
   ],
 };
