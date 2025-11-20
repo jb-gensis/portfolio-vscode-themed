@@ -22,7 +22,7 @@
 
 ### Links
 
-- **Live Demo**: [https://portfolio-vscode-themed.vercel.app/](https://portfolio-vscode-themed.vercel.app/)
+- **Live Demo**: [https://portfolio-vscode-themed.vercel.app/](https://jb-gensis.vercel.app/)
 
 ---
 
@@ -80,8 +80,4 @@ This project was designed to be **developer-friendly and customizable**.
 
 No complicated setup or backend configuration required!
 
----
 
-## Author
-
-- Inspired By – [KAREEM HAMOUDA](https://vs-code-themed-portfolio-theta.vercel.app/)
