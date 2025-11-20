@@ -42,11 +42,11 @@
 1. **Fork** this repository to your GitHub account.
 2. **Clone** the forked repository:
    ```bash
-   git clone https://github.com/your-username/vs-code-themed-portfolio.git
+   git clone https://github.com/your-username/portfolio-vscode-themed.git
    ```
 3. Navigate to the project folder:
    ```bash
-   cd vs-code-themed-portfolio
+   cd portfolio-vscode-themed
    ```
 4. Install all dependencies:
    ```bash
