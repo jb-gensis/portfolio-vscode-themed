@@ -1,7 +1,7 @@
 import { HStack, useColorModeValue } from "@chakra-ui/react";
 import JSImage from "/assets/javascript.webp";
 import HTMLImage from "/assets/html.webp";
-// import JSONImage from "/assets/json.webp";
+import JSONImage from "/assets/json.webp";
 import CSSImage from "/assets/css.webp";
 import TSImage from "/assets/typescript.webp";
 import TabsBarItem from "./TabsBarItem";
@@ -16,12 +16,12 @@ const TabsBar = ({ selectedTab, onSelectTab }: Props) => {
   const tabs = [
     { Label: "home.js", Icon: JSImage, boxSize: "14px", Link: "/" },
     { Label: "about.html", Icon: HTMLImage, boxSize: "15px", Link: "/about" },
-    // {
-    //   Label: "projects.json",
-    //   Icon: JSONImage,
-    //   boxSize: "17px",
-    //   Link: "/projects",
-    // },
+    {
+      Label: "projects.json",
+      Icon: JSONImage,
+      boxSize: "17px",
+      Link: "/projects",
+    },
     //{ Label: "github.css", Icon: CSSImage, boxSize: "15px", Link: "/github" },
     { Label: "contact.ts", Icon: TSImage, boxSize: "15px", Link: "/contact" },
     { Label: "theme.css", Icon: CSSImage, boxSize: "15px", Link: "/theme" },

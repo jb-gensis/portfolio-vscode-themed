@@ -1,7 +1,7 @@
 import { Box, VStack } from "@chakra-ui/react";
 import {
   VscFiles,
-  // VscDebugAlt,
+  VscDebugAlt,
   //VscGithub,
   VscAccount,
   VscSettingsGear,
@@ -17,12 +17,12 @@ interface Props {
 const ActivityBar = ({ selectedPage, onSelectPage }: Props) => {
   const topAreaPages = [
     { Label: "Home", Icon: VscFiles, Navigate: "home.js", Link: "/" },
-    // {
-    //   Label: "Projects",
-    //   Icon: VscDebugAlt,
-    //   Navigate: "projects.json",
-    //   Link: "/projects",
-    // },
+    {
+      Label: "Projects",
+      Icon: VscDebugAlt,
+      Navigate: "projects.json",
+      Link: "/projects",
+    },
     // {
     //   Label: "GitHub",
     //   Icon: VscGithub,
