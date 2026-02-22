@@ -5,7 +5,7 @@ export const aboutMe = {
   ],
   // Simply upload your CV to your Google Drive, then just copy the link to the uploaded file and paste it here.
   cvDriveLink:
-    "https://drive.google.com/file/d/1OrknqA_RtAjz4GK7C8gWwsutN4GeMpHk/view?usp=sharing",
+    "https://drive.google.com/file/d/1ndAij5kNpL99kPDZ1oBKt9HCO4o3H4cW/view?usp=sharing",
 };
 
 export const technicalSkills: Record<string, string[]> = {
@@ -18,7 +18,8 @@ export const technicalSkills: Record<string, string[]> = {
     "Bootstrap",
     "Tailwind",
     "JQuery",
-    "Basic TypeScript"
+    "Basic TypeScript",
+    "NextJs"
   ],
   "Backend Development": [
     "Laravel",
@@ -28,7 +29,8 @@ export const technicalSkills: Record<string, string[]> = {
   "Tools & Technologies": [
     "Git",
     "GitHub",
-    "Docker"
+    "Docker",
+    "Basic AWS"
   ],
   "Operating System": [
     "Windows",
